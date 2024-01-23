@@ -46,4 +46,4 @@ function getValue(value: keyof MyInterface) {
 getValue('id'); // 1
 getValue('count')
 ```
-![A link to the original source](https://code.pieces.app/collections/typescript)
+[A link to the original source](https://code.pieces.app/collections/typescript)
