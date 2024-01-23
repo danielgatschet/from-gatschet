@@ -15,3 +15,5 @@ I love Taco Bell because they never **miss**. They are typically **open** when e
 * McDonalds
 * HyVee
 * Taco Johns
+
+![A link to MyMedia](/MyMedia.md)
