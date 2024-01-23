@@ -19,3 +19,28 @@ My favorite song at the moment has to be "I heard it through the grapvine" by Ma
 > Defeat is worse than death, because you have to live with defeat. -*Vince Lombardi*
 
 > Winning is a habit. Unfortunately, so is losing. -*Vince Lombardi*
+
+---
+
+### A little typescript snippet
+
+```
+interface MyInterface {
+  id: number;
+  name: string;
+  properties: string[];
+}
+
+const myObject: MyInterface = {
+  id: 1,
+  name: 'foo',
+  properties: ['a', 'b', 'c']
+};
+
+function getValue(value: keyof MyInterface) {
+  return myObject[value];
+}
+
+getValue('id'); // 1
+getValue('count')
+```
