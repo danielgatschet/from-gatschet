@@ -16,5 +16,6 @@ My favorite song at the moment has to be "I heard it through the grapvine" by Ma
 ---
 
 ### Some of my favorite quotes
-> Defeat is worse than death, because you have to live with defeat. -*Vince Lombardi* \n
+> Defeat is worse than death, because you have to live with defeat. -*Vince Lombardi*
+
 > Winning is a habit. Unfortunately, so is losing. -*Vince Lombardi*
