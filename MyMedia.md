@@ -24,6 +24,8 @@ My favorite song at the moment has to be "I heard it through the grapvine" by Ma
 
 ### A little typescript snippet
 
+The following code snippet is a TypeScript code snippet. This snippet is used to get the value of an object in an interface.
+
 ```
 interface MyInterface {
   id: number;
@@ -44,3 +46,4 @@ function getValue(value: keyof MyInterface) {
 getValue('id'); // 1
 getValue('count')
 ```
+![A link to the original source](https://code.pieces.app/collections/typescript)
