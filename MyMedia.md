@@ -3,3 +3,12 @@ My favorite song at the moment has to be "I heard it through the grapvine" by Ma
 
 ### A picture of myself
 ![A picture of me in my blazer](Snapchat-902258160.jpg)
+
+---
+
+| Song Title | Why you should Listen | Artist |
+| ---------- | --------------------- | ------ |
+| Holiday    | It is a great song that captures the essence of punk rock | Greenday |
+| ABC        | You get to hear a young Michael Jackson before he lost his mind! | The Jackson 5 |
+| Talking in your sleep | This song is from the hit movie "Five Nights at Freddy's" | The Romantics |
+| Take it East | One of the best songs by the Eagles | The Eagles |
